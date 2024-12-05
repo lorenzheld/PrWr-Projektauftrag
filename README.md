@@ -8,4 +8,4 @@ https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/
 
 Darstellungsform:
 
-Wir stiellen die Daten mit einem Stacked Area Chart dar.
+Wir stellen die Daten mit einem Stacked Area Chart dar.
