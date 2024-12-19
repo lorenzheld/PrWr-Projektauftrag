@@ -15,3 +15,5 @@ Während des Lockdowns brach die Unfallrate zusammen.
 Durch Besuchen von Antischleuderkürse könnten viele Unfälle verhindert werden. Allgemein mehr Achtsamkeit beim parkieren und fahren würde sehr helfen bei den Unfällen. 
 
 Wenn die Leute eher Zuhause sind und nicht arbeiten müssen, passieren weniger Unfälle, da auch weniger Leute auf der Strasse unterwegs sind.
+
+Die meisten Unfälle scheinen durch zu wenig Aufmerksamkeit zu passieren. Das Handy könnte einen Einfluss darauf haben.
